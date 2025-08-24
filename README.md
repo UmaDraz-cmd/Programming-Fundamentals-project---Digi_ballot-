@@ -1,0 +1,1 @@
+This project named "Digi_Ballot" has two sections one section is called voter section  or voter side where voter can come, register himself and then he can  vote while the other side or section of the project is admin side where he/she admits voters and candidates performs cross validations and then approves votes.
